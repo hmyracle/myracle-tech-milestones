@@ -1,0 +1,22 @@
+.tittle{font-size: 46px;
+     coloR: rgb(39, 31, 82);
+     font-style: oblique;
+     background-color: snow;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     text-align: center;
+}
+
+.title{font-size: 23px;
+     text-align: center;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.img{width: 10px;
+     height: 10px;
+}
+
+.body{font-size: 22px;
+     coloR: rgb(43, 31, 9);
+     font-family: cursive;
+     background: rgba(122, 139, 137, 0.192);
+}
